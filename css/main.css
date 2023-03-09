@@ -1,1 +1,35 @@
-
+<!doctype html>
+<html lang="en-US">
+	<head>
+        <link rel="stylesheet" href="css/main.css">
+		<meta charset="utf-8">
+		<title>My Top 4 Superheroes</title>
+		<style>
+			caption
+			{
+				text-decoration:underline;
+				font-size:30px;
+			}
+            th
+            {
+                width:200px;
+                font-size:20px;
+            }
+            th,td
+            {
+                border:1px solid red;
+                padding-left:15px;
+                padding-right:15px;
+                padding-top:15px;
+                padding-bottom:15px;
+            }
+            table
+            {
+                border-spacing:0px;
+            }
+            th
+            {
+              background-color: yellow;
+              font-size: 18px;
+		</style>
+	</head>
