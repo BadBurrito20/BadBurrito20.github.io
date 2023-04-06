@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(221, 221, 221);
+}
+h1
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 52pt;
+}
+section h2
+{
+    margin: 5px;
+    font-size: 30pt;
+}
+section
+{
+    border: 3px solid black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+    clear: both;
+}
+ul
+{
+    font-size: 20pt;
+}
+.date
+{
+    color: rgb(196, 44, 23);
+    float: right;
+}
+nav a
+{   
+    font-size: 20pt;
+    font-weight: bold;
+    color:rgb(23, 71, 196)
+}
+#experience li
+{
+    border-bottom: 2px solid fire brick
+}
+#education h3
+{
+    border-bottom: 2px solid fire brick
+}
+img
+{
+    border-radius: 50%;
+}
